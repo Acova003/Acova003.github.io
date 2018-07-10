@@ -12,7 +12,9 @@ I grew up in a community that had predistinguished expectations of me as  a Lati
 
 This is the narrative of many Latinas in higher education like myself who have had to overcome gender expectations in our community. Many of us have learned how to redirect our strong characteristics into challenging the very social structure that made us who we are. I believe that because of the innate characterists within Latina women, we may serve the tech community in a special way.
 
-So who is the Oxomo Woman? Oxomo (also known as Oxomoco) in the Aztec religion was the first woman to be created. Oxomo had to define her own identity as a woman and navigate the word on her own terms, paving the way for others who came after her. The Oxomo Woman is ALL women who are pursuing a career in a male dominated tech world. Many of us our first or one of a small number of female software engineers in a conference room, team, start-up, or meetup. We all have something special in common: we are paving the way for a new generation of women from our home communities to enter tech. We aren't here with pitchforks looking to take down the man. We simply want to offer a new prospective. 
+So who is the Oxomo Woman? Oxomo (also known as Oxomoco) in the Aztec religion was the first woman to be created. Oxomo had to define her own identity as a woman and navigate the word on her own terms, paving the way for others who came after her. The Oxomo Woman is ALL women who are pursuing a career in a male dominated tech world. Many of us our first or one of a small number of female software engineers in a conference room, team, start-up, or meetup. We all have something special in common: we are paving the way for a new generation of women from our home communities to enter tech. 
+
+Take a deep breath. Stay calm, code on. We aren't here with pitchforks looking to take down the man. We simply want to offer a new prospective. 
 
 This blog will be about my experience in the Flatiron Online Web Development program as well as various topics in programming. Let this crazy, long, and adventurous journey begin! 
 
