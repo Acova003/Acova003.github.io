@@ -6,7 +6,7 @@ permalink:  who_is_the_oxomo_woman
 ---
 
 
-I am a native Bay Area girl born into center of the tech universe. Although I've always heard of the .com boom, I've never understood what "tech" really was. It wasn't until I sailed around the world on a floating university called Semester at Sea that I first understood what tech is. When I had a glimpse of a humanitarian movement happening within tech, I knew that I needed to be a part of it. After that trip, I left my aspirations to be a history professor in the past and looked forward to a future in tech. 
+I am a native Bay Area girl born into center of the tech universe. Although I've always heard of the Dot-com boom, I've never understood what "tech" really was. It wasn't until I sailed around the world on a floating university called Semester at Sea that I first understood what tech is. When I had a glimpse of a humanitarian movement happening within tech, I knew that I needed to be a part of it. After that trip, I left my aspirations to be a history professor in the past and looked forward to a future in tech. 
 
 I grew up in a community that had predistinguished expectations of me as  a Latina: grow up, find a nice hard-working man to marry, have lots of kids, and keep my house in order. Although I felt these pressures, I was lucky enough to be born into a family of strong women. Like momma Nia in My Big Fat Greek Wedding says, “The man may be the head of the household. But the woman is the neck, and she can turn the head whichever way she pleases.” 
 
@@ -21,3 +21,5 @@ This blog will be about my experience in the Flatiron Online Web Development pro
 Signed,
 
 A very excited Oxomo woman
+
+
