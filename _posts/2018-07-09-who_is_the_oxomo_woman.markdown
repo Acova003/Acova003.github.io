@@ -19,4 +19,5 @@ Take a deep breath. Stay calm, code on. We aren't here with pitchforks looking t
 This blog will be about my experience in the Flatiron Online Web Development program as well as various topics in programming. Let this crazy, long, and adventurous journey begin! 
 
 Signed,
+
 A very excited Oxomo woman
