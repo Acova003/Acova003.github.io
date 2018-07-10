@@ -20,6 +20,6 @@ This blog will be about my experience in the Flatiron Online Web Development pro
 
 Signed,
 
-A very excited Oxomo woman
+A very determined Oxomo woman
 
 
