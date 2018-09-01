@@ -10,7 +10,7 @@ Diamonds are to Marilyn Monroe as pry is to this very nerdy programer.  There is
 
 What is pry? 
 
-When we use irb, we are given a new environment that we have to write or paste code into. The pry gem takes the code that you've already written and turns that into an interactive enrvironment. Don't know what array is being passed into your method? Pry lets you 
+When we use irb, we are given a new environment that we have to write or paste code into. The pry gem takes the code that you've already written and turns that into an interactive enrvironment. Don't know what array is being passed into your method? Pry lets you look at that particular item. 
 
 Let's see this in action...
 
