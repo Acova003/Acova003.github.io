@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Pry Is a Girl's Best Friend"
-date:       2018-09-01 06:09:07 +0000
+date:       2018-09-01 02:09:08 -0400
 permalink:  pry_is_a_girls_best_friend
 ---
 
